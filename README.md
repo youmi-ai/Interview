@@ -6,7 +6,7 @@ Java is at the heart of our digital lifestyle. It's the platform for launching c
 
 
 
-#### 2. 请使用喜爱的编程语言，实现以下任意之一的排序算法
+#### 2. 请使用喜爱的编程语言，实现以下任意之一的排序算法（如果愿意，可以都实现了，加分）
 1. 冒泡算法
 2. 选择算法
 3. 插入算法
