@@ -15,7 +15,7 @@ Java is at the heart of our digital lifestyle. It's the platform for launching c
 6. 推算法
 
 
-*通过大数据量单元测试，算出所选择的算法之间的性能区别*
+*通过单元测试，算出所选择的算法之间的性能区别*
 
 完成后，请将面试题发到邮箱，service@youmi.ai 
 
