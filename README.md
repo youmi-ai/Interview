@@ -12,7 +12,7 @@ Java is at the heart of our digital lifestyle. It's the platform for launching c
 3. 插入算法
 4. 归并算法
 5. 快速算法
-6. 推算法
+6. 堆算法
 
 
 *通过大数据量单元测试，算出所选择的算法之间的性能区别并做出分析*
