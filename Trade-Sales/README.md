@@ -1,6 +1,6 @@
 # Trade Sales
 
-Trade sales interview questions.
+Here are 5 trade sales interview questions.
 
 [Youmibots's product home page](https://youmibots.en.made-in-china.com/)
 
@@ -14,4 +14,4 @@ Trade sales interview questions.
 
 
 
-After completing the 5 topic above, please send an email to service@youmibots.com. Thanks for your participation.
+**After completing the 5 topic above, please send an email to service@youmibots.com. Thanks for your participation.**
