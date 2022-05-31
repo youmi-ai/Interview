@@ -17,5 +17,5 @@ Java is at the heart of our digital lifestyle. It's the platform for launching c
 
 *通过大数据量单元测试，算出所选择的算法之间的性能区别并做出分析*
 
-完成后，请将面试题发到邮箱，service@youmi.ai 
+完成后，请将面试题发到邮箱，service@youmibots.com
 
